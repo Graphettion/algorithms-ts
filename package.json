@@ -1,0 +1,14 @@
+{
+  "name": "rollup-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollup.config.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslib": "1.9.3",
+    "typescript": "3.2.4"
+  }
+}
